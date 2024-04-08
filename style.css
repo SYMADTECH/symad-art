@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(136, 251, 255);
+    margin:10px;
+    background-image: url("statuette senoufo/masque.jpg");
+    background-size: 100%;
+    width:auto;
+    padding: 40px, ;
+
+}
+img{
+    background-position:left;
+    margin: left;
+    height: 100px;
+}
+h1{
+    text-align: center;
+    color: azure;
+}
+.header{
+    background-color: black;
+    height: 140px;
+    margin: 5px; 
+    text-align: right;
+    margin: 0px;
+    word-spacing: 0.1rem;
+}
+nav ul li{
+    list-style-type: none;
+    display: inline-block;
+    padding: 10px;
+   
+
+
+}
+ul li a{
+    color: #fdfcff;
+    letter-spacing: 0.1rem;
+
+}
+ul li a:hover{
+    color: rgb(104, 230, 73);
+    text-decoration: underline;
+}
+.header li {
+    text-decoration: none;
+}
+form{
+    padding: 30px;
+    text-align: right;
+}
+input[type="search"]{
+    font-size: 17px;
+}
+.footer {
+    height: none;
+    margin-top: 100px;
+    text-align:center;
+    background-color: rgb(131, 159, 248);
+    display:flex;
+
+}
+.taille{
+    height: 150px;
+
+}
